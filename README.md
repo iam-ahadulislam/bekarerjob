@@ -29,7 +29,6 @@ Overall, the system serves as the basis for a **simple and easy-to-use job recru
 ---
 
 ## ScreenShot
-![App Screenshot](screenshots/demo.png)
+![App Screenshot](05.jpeg)
 
-
-
+- **FOR MORE IMAGE**: Open the .pdf file and read the report. I have provided detailed information about the project and pictures of each step.
